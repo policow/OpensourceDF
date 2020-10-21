@@ -1,0 +1,46 @@
+﻿Created By AccessData® FTK® Imager 3.1.1.8 
+
+Case Information: 
+Acquired using: ADI3.1.1.8
+Case Number: 2020-1
+Evidence Number: 1
+Unique description: USB 이미징 테스트
+Examiner: 유현
+Notes: USB 이미징
+
+--------------------------------------------------------------
+
+Information for E:\Lab\USB-testing:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 3,916
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 62,914,560
+[Physical Drive Information]
+ Drive Model: USB Flash Disk USB Device
+ Drive Serial Number: AA00000000000489
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 30720 MB
+ Sector count:    62914560
+[Computed Hashes]
+ MD5 checksum:    f546cc1407460d51f8a0e701b7d19998
+ SHA1 checksum:   e1ea96771e88907a7645f6cd08a4d852c3097de0
+
+Image Information:
+ Acquisition started:   Wed Oct 21 23:44:15 2020
+ Acquisition finished:  Thu Oct 22 00:03:52 2020
+ Segment list:
+  E:\Lab\USB-testing.E01
+  E:\Lab\USB-testing.E02
+
+Image Verification Results:
+ Verification started:  Thu Oct 22 00:03:52 2020
+ Verification finished: Thu Oct 22 00:06:22 2020
+ MD5 checksum:    f546cc1407460d51f8a0e701b7d19998 : verified
+ SHA1 checksum:   e1ea96771e88907a7645f6cd08a4d852c3097de0 : verified
